@@ -1,0 +1,18 @@
+syntax="proto3";
+
+package bidirectional;
+
+service ProcessingServer {
+    rpc calculate(stream Request) returns (stream Response) {}
+}
+
+message Request {
+    int32 dimension = 1;
+    bytes matrix_a = 2;
+    bytes matrix_b = 3;
+}
+
+message Response {
+    int32 dimension = 1;
+    bytes matrix_r = 2;
+}
