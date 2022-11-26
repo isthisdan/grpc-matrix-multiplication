@@ -1,0 +1,15 @@
+[START]	 Start Request By Dimension Request	 2022-11-26 11:44:37
+[START]	 Start Response	 2022-11-26 11:44:37
+[RESULT]	 PID: 82009	 cpu usage: 0.0%	 memory usage : 0.298%
+[SUCCESS]	 Matrix #1	 Recieved	 0.002
+[RESULT]	 PID: 82009	 cpu usage: 2.4%	 memory usage : 0.509%
+[SUCCESS]	 Matrix #2	 Recieved	 0.467
+[RESULT]	 PID: 82009	 cpu usage: 0.5%	 memory usage : 0.512%
+[SUCCESS]	 Matrix #3	 Recieved	 4.176
+[RESULT]	 PID: 82009	 cpu usage: 0.5%	 memory usage : 0.526%
+[SUCCESS]	 Matrix #4	 Recieved	 16.729
+[RESULT]	 PID: 82009	 cpu usage: 0.4%	 memory usage : 0.530%
+[SUCCESS]	 Matrix #5	 Recieved	 46.633
+[RESULT]	 PID: 82009	 cpu usage: 0.4%	 memory usage : 0.530%
+[SUCCESS]	 Matrix #6	 Recieved	 104.740
+[RESULT]	 Total Time: 104.741s	 Latency: 0.000s	 Reception Rate: 100.00%(6/6)
