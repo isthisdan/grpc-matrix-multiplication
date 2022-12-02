@@ -1,0 +1,481 @@
+[RESULT]	 PID: 24336	 cpu usage: 0.0%	 memory usage : 0.185%
+[SUCCESS]	 Matrix #1	 Calculated	 0.042
+[RESULT]	 PID: 24336	 cpu usage: 100.2%	 memory usage : 0.185%
+[SUCCESS]	 Matrix #2	 Calculated	 0.084
+[RESULT]	 PID: 24336	 cpu usage: 100.6%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #3	 Calculated	 0.127
+[RESULT]	 PID: 24336	 cpu usage: 100.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #4	 Calculated	 0.168
+[RESULT]	 PID: 24336	 cpu usage: 100.5%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #5	 Calculated	 0.213
+[RESULT]	 PID: 24336	 cpu usage: 100.6%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #6	 Calculated	 0.259
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #7	 Calculated	 0.300
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #8	 Calculated	 0.354
+[RESULT]	 PID: 24336	 cpu usage: 100.4%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #9	 Calculated	 0.396
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #10	 Calculated	 0.440
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #11	 Calculated	 0.483
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #12	 Calculated	 0.527
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.191%
+[SUCCESS]	 Matrix #13	 Calculated	 0.570
+[RESULT]	 PID: 24336	 cpu usage: 101.6%	 memory usage : 0.191%
+[SUCCESS]	 Matrix #14	 Calculated	 0.613
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #15	 Calculated	 0.659
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.191%
+[SUCCESS]	 Matrix #16	 Calculated	 0.703
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.191%
+[SUCCESS]	 Matrix #17	 Calculated	 0.747
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.191%
+[SUCCESS]	 Matrix #18	 Calculated	 0.806
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.192%
+[SUCCESS]	 Matrix #19	 Calculated	 0.848
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.192%
+[SUCCESS]	 Matrix #20	 Calculated	 0.901
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #21	 Calculated	 0.951
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #22	 Calculated	 0.993
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #23	 Calculated	 1.035
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.192%
+[SUCCESS]	 Matrix #24	 Calculated	 1.096
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.192%
+[SUCCESS]	 Matrix #25	 Calculated	 1.144
+[RESULT]	 PID: 24336	 cpu usage: 100.6%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #26	 Calculated	 1.187
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.192%
+[SUCCESS]	 Matrix #27	 Calculated	 1.234
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #28	 Calculated	 1.276
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #29	 Calculated	 1.319
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #30	 Calculated	 1.361
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #31	 Calculated	 1.407
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #32	 Calculated	 1.454
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #33	 Calculated	 1.502
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #34	 Calculated	 1.544
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.193%
+[SUCCESS]	 Matrix #35	 Calculated	 1.588
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #36	 Calculated	 1.655
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #37	 Calculated	 1.701
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #38	 Calculated	 1.755
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #39	 Calculated	 1.803
+[RESULT]	 PID: 24336	 cpu usage: 100.5%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #40	 Calculated	 1.845
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #41	 Calculated	 1.888
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #42	 Calculated	 1.932
+[RESULT]	 PID: 24336	 cpu usage: 100.4%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #43	 Calculated	 1.973
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #44	 Calculated	 2.021
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #45	 Calculated	 2.065
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #46	 Calculated	 2.109
+[RESULT]	 PID: 24336	 cpu usage: 100.5%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #47	 Calculated	 2.153
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #48	 Calculated	 2.197
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #49	 Calculated	 2.241
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #50	 Calculated	 2.283
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #51	 Calculated	 2.341
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #52	 Calculated	 2.386
+[RESULT]	 PID: 24336	 cpu usage: 101.6%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #53	 Calculated	 2.429
+[RESULT]	 PID: 24336	 cpu usage: 101.9%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #54	 Calculated	 2.474
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.194%
+[SUCCESS]	 Matrix #55	 Calculated	 2.530
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #56	 Calculated	 2.572
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #57	 Calculated	 2.616
+[RESULT]	 PID: 24336	 cpu usage: 100.6%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #58	 Calculated	 2.659
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #59	 Calculated	 2.702
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #60	 Calculated	 2.745
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #61	 Calculated	 2.791
+[RESULT]	 PID: 24336	 cpu usage: 102.2%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #62	 Calculated	 2.837
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #63	 Calculated	 2.888
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #64	 Calculated	 2.930
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #65	 Calculated	 2.973
+[RESULT]	 PID: 24336	 cpu usage: 102.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #66	 Calculated	 3.018
+[RESULT]	 PID: 24336	 cpu usage: 102.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #67	 Calculated	 3.061
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #68	 Calculated	 3.105
+[RESULT]	 PID: 24336	 cpu usage: 100.6%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #69	 Calculated	 3.148
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #70	 Calculated	 3.191
+[RESULT]	 PID: 24336	 cpu usage: 102.6%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #71	 Calculated	 3.237
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #72	 Calculated	 3.279
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #73	 Calculated	 3.323
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #74	 Calculated	 3.372
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.195%
+[SUCCESS]	 Matrix #75	 Calculated	 3.416
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #76	 Calculated	 3.460
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #77	 Calculated	 3.506
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #78	 Calculated	 3.552
+[RESULT]	 PID: 24336	 cpu usage: 102.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #79	 Calculated	 3.600
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #80	 Calculated	 3.648
+[RESULT]	 PID: 24336	 cpu usage: 101.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #81	 Calculated	 3.692
+[RESULT]	 PID: 24336	 cpu usage: 101.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #82	 Calculated	 3.750
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #83	 Calculated	 3.794
+[RESULT]	 PID: 24336	 cpu usage: 102.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #84	 Calculated	 3.838
+[RESULT]	 PID: 24336	 cpu usage: 101.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #85	 Calculated	 3.883
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #86	 Calculated	 3.926
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #87	 Calculated	 3.971
+[RESULT]	 PID: 24336	 cpu usage: 102.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #88	 Calculated	 4.018
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #89	 Calculated	 4.062
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #90	 Calculated	 4.105
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #91	 Calculated	 4.151
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #92	 Calculated	 4.193
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #93	 Calculated	 4.239
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #94	 Calculated	 4.285
+[RESULT]	 PID: 24336	 cpu usage: 101.6%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #95	 Calculated	 4.335
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #96	 Calculated	 4.384
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #97	 Calculated	 4.428
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #98	 Calculated	 4.493
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #99	 Calculated	 4.537
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #100	 Calculated	 4.580
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #101	 Calculated	 4.625
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #102	 Calculated	 4.668
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #103	 Calculated	 4.715
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #104	 Calculated	 4.764
+[RESULT]	 PID: 24336	 cpu usage: 100.6%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #105	 Calculated	 4.807
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #106	 Calculated	 4.851
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #107	 Calculated	 4.893
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #108	 Calculated	 4.940
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #109	 Calculated	 4.983
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #110	 Calculated	 5.028
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #111	 Calculated	 5.071
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #112	 Calculated	 5.119
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #113	 Calculated	 5.162
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #114	 Calculated	 5.207
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #115	 Calculated	 5.255
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #116	 Calculated	 5.311
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #117	 Calculated	 5.353
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #118	 Calculated	 5.401
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #119	 Calculated	 5.449
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #120	 Calculated	 5.493
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #121	 Calculated	 5.538
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #122	 Calculated	 5.589
+[RESULT]	 PID: 24336	 cpu usage: 101.7%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #123	 Calculated	 5.633
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #124	 Calculated	 5.679
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #125	 Calculated	 5.723
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #126	 Calculated	 5.773
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #127	 Calculated	 5.837
+[RESULT]	 PID: 24336	 cpu usage: 101.7%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #128	 Calculated	 5.880
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #129	 Calculated	 5.923
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #130	 Calculated	 5.967
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #131	 Calculated	 6.009
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #132	 Calculated	 6.052
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #133	 Calculated	 6.095
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #134	 Calculated	 6.137
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #135	 Calculated	 6.180
+[RESULT]	 PID: 24336	 cpu usage: 101.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #136	 Calculated	 6.226
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #137	 Calculated	 6.271
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #138	 Calculated	 6.323
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #139	 Calculated	 6.366
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #140	 Calculated	 6.413
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #141	 Calculated	 6.467
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #142	 Calculated	 6.509
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #143	 Calculated	 6.557
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #144	 Calculated	 6.600
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #145	 Calculated	 6.646
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #146	 Calculated	 6.688
+[RESULT]	 PID: 24336	 cpu usage: 100.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #147	 Calculated	 6.730
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #148	 Calculated	 6.772
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #149	 Calculated	 6.819
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #150	 Calculated	 6.865
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #151	 Calculated	 6.908
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #152	 Calculated	 6.959
+[RESULT]	 PID: 24336	 cpu usage: 101.6%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #153	 Calculated	 7.001
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #154	 Calculated	 7.045
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #155	 Calculated	 7.089
+[RESULT]	 PID: 24336	 cpu usage: 102.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #156	 Calculated	 7.138
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #157	 Calculated	 7.182
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #158	 Calculated	 7.238
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #159	 Calculated	 7.290
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #160	 Calculated	 7.353
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #161	 Calculated	 7.410
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #162	 Calculated	 7.459
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #163	 Calculated	 7.502
+[RESULT]	 PID: 24336	 cpu usage: 100.6%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #164	 Calculated	 7.545
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #165	 Calculated	 7.586
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #166	 Calculated	 7.635
+[RESULT]	 PID: 24336	 cpu usage: 100.6%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #167	 Calculated	 7.679
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #168	 Calculated	 7.728
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #169	 Calculated	 7.771
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #170	 Calculated	 7.815
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #171	 Calculated	 7.859
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #172	 Calculated	 7.906
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #173	 Calculated	 7.953
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #174	 Calculated	 8.003
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #175	 Calculated	 8.048
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #176	 Calculated	 8.092
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #177	 Calculated	 8.138
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #178	 Calculated	 8.192
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #179	 Calculated	 8.236
+[RESULT]	 PID: 24336	 cpu usage: 101.6%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #180	 Calculated	 8.291
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #181	 Calculated	 8.335
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #182	 Calculated	 8.379
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #183	 Calculated	 8.422
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #184	 Calculated	 8.467
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #185	 Calculated	 8.516
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #186	 Calculated	 8.560
+[RESULT]	 PID: 24336	 cpu usage: 101.6%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #187	 Calculated	 8.614
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #188	 Calculated	 8.661
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #189	 Calculated	 8.708
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #190	 Calculated	 8.753
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #191	 Calculated	 8.798
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #192	 Calculated	 8.847
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #193	 Calculated	 8.891
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #194	 Calculated	 8.938
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #195	 Calculated	 8.992
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #196	 Calculated	 9.036
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #197	 Calculated	 9.092
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #198	 Calculated	 9.134
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #199	 Calculated	 9.177
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #200	 Calculated	 9.220
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #201	 Calculated	 9.262
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #202	 Calculated	 9.308
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #203	 Calculated	 9.353
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #204	 Calculated	 9.399
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #205	 Calculated	 9.446
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #206	 Calculated	 9.495
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #207	 Calculated	 9.538
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #208	 Calculated	 9.587
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #209	 Calculated	 9.630
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #210	 Calculated	 9.675
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #211	 Calculated	 9.718
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #212	 Calculated	 9.762
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #213	 Calculated	 9.808
+[RESULT]	 PID: 24336	 cpu usage: 101.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #214	 Calculated	 9.854
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #215	 Calculated	 9.902
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #216	 Calculated	 9.956
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #217	 Calculated	 10.005
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #218	 Calculated	 10.048
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.197%
+[SUCCESS]	 Matrix #219	 Calculated	 10.092
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #220	 Calculated	 10.138
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #221	 Calculated	 10.184
+[RESULT]	 PID: 24336	 cpu usage: 102.1%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #222	 Calculated	 10.231
+[RESULT]	 PID: 24336	 cpu usage: 101.1%	 memory usage : 0.197%
+[SUCCESS]	 Matrix #223	 Calculated	 10.280
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #224	 Calculated	 10.328
+[RESULT]	 PID: 24336	 cpu usage: 102.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #225	 Calculated	 10.370
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #226	 Calculated	 10.417
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #227	 Calculated	 10.462
+[RESULT]	 PID: 24336	 cpu usage: 101.4%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #228	 Calculated	 10.506
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #229	 Calculated	 10.554
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #230	 Calculated	 10.600
+[RESULT]	 PID: 24336	 cpu usage: 101.5%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #231	 Calculated	 10.647
+[RESULT]	 PID: 24336	 cpu usage: 100.7%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #232	 Calculated	 10.690
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #233	 Calculated	 10.736
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #234	 Calculated	 10.782
+[RESULT]	 PID: 24336	 cpu usage: 100.8%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #235	 Calculated	 10.835
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #236	 Calculated	 10.879
+[RESULT]	 PID: 24336	 cpu usage: 100.9%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #237	 Calculated	 10.923
+[RESULT]	 PID: 24336	 cpu usage: 101.3%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #238	 Calculated	 10.967
+[RESULT]	 PID: 24336	 cpu usage: 101.2%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #239	 Calculated	 11.014
+[RESULT]	 PID: 24336	 cpu usage: 101.0%	 memory usage : 0.196%
+[SUCCESS]	 Matrix #240	 Calculated	 11.060
+[RESULT]	 Total Time: 11.060s	 Latency: 1.060s	 Reception Rate: 90.00%(216/240)
