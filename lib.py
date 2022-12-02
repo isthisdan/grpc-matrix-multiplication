@@ -38,9 +38,7 @@ class MatrixMultiplicator:
         for i in range(start, end):
             for j in range(self.dimension):
                 for k in range(self.dimension):
-                    self.matrix_r[i][j] += int(
-                        self.matrix_a[i][k] * self.matrix_b[k][j]
-                    )
+                    self.matrix_r[i][j] += int(self.matrix_a[i][k] * self.matrix_b[k][j])
 
 
 def matrix_converter_bytes(matrix):
@@ -64,9 +62,7 @@ class Resource:
         self.memory_usage = self.py.memory_percent()
 
     def show_usage(self):
-        print(
-            f"[RESULT]\t PID: {self.pid}\t cpu usage: {self.cpu_usage}%\t memory usage : {self.memory_usage:.3f}%"
-        )
+        print(f"[RESULT]\t PID: {self.pid}\t cpu usage: {self.cpu_usage}%\t memory usage : {self.memory_usage:.3f}%")
 
 
 class Logging:
@@ -94,6 +90,6 @@ class ClientDimensionC:
 
 class ClientFpsC:
     # DIMENSION < 40
-    DIMENSION = 45
+    DIMENSION = 30
     MAX_TIME = 10
-    FPS = 60
+    FPS = 24
