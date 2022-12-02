@@ -1,0 +1,603 @@
+[START]	 Start Request By FPS Request	 2022-12-02 20:50:46
+[START]	 Start Response	 2022-12-02 20:50:46
+[RESULT]	 PID: 19958	 cpu usage: 0.0%	 memory usage : 0.264%
+[SUCCESS]	 Matrix #1	 Recieved	 0.154
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.264%
+[SUCCESS]	 Matrix #2	 Recieved	 0.234
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #3	 Recieved	 0.335
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #4	 Recieved	 0.429
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #5	 Recieved	 0.502
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #6	 Recieved	 0.596
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #7	 Recieved	 0.669
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #8	 Recieved	 0.750
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #9	 Recieved	 0.836
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #10	 Recieved	 0.937
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #11	 Recieved	 1.004
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.265%
+[SUCCESS]	 Matrix #12	 Recieved	 1.079
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #13	 Recieved	 1.171
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #14	 Recieved	 1.272
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #15	 Recieved	 1.367
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #16	 Recieved	 1.459
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #17	 Recieved	 1.553
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #18	 Recieved	 1.640
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #19	 Recieved	 1.720
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #20	 Recieved	 1.801
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #21	 Recieved	 1.941
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #22	 Recieved	 2.008
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #23	 Recieved	 2.094
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #24	 Recieved	 2.175
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #25	 Recieved	 2.269
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #26	 Recieved	 2.362
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #27	 Recieved	 2.462
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #28	 Recieved	 2.570
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #29	 Recieved	 2.643
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #30	 Recieved	 2.731
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #31	 Recieved	 2.810
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #32	 Recieved	 2.890
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #33	 Recieved	 2.971
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #34	 Recieved	 3.091
+[RESULT]	 PID: 19958	 cpu usage: 99.8%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #35	 Recieved	 3.178
+[RESULT]	 PID: 19958	 cpu usage: 100.4%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #36	 Recieved	 3.245
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #37	 Recieved	 3.339
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #38	 Recieved	 3.413
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #39	 Recieved	 3.494
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #40	 Recieved	 3.609
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #41	 Recieved	 3.695
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #42	 Recieved	 3.769
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #43	 Recieved	 3.848
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #44	 Recieved	 3.936
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #45	 Recieved	 4.010
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #46	 Recieved	 4.096
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #47	 Recieved	 4.210
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #48	 Recieved	 4.283
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #49	 Recieved	 4.378
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #50	 Recieved	 4.445
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #51	 Recieved	 4.531
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #52	 Recieved	 4.613
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #53	 Recieved	 4.718
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #54	 Recieved	 4.819
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #55	 Recieved	 4.919
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #56	 Recieved	 5.006
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #57	 Recieved	 5.086
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #58	 Recieved	 5.182
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #59	 Recieved	 5.267
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #60	 Recieved	 5.382
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #61	 Recieved	 5.487
+[RESULT]	 PID: 19958	 cpu usage: 100.0%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #62	 Recieved	 5.575
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #63	 Recieved	 5.655
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #64	 Recieved	 5.749
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #65	 Recieved	 5.876
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #66	 Recieved	 5.956
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #67	 Recieved	 6.102
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #68	 Recieved	 6.190
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #69	 Recieved	 6.277
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #70	 Recieved	 6.357
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #71	 Recieved	 6.451
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.266%
+[SUCCESS]	 Matrix #72	 Recieved	 6.546
+[RESULT]	 PID: 19958	 cpu usage: 100.0%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #73	 Recieved	 6.625
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #74	 Recieved	 6.759
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #75	 Recieved	 6.859
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #76	 Recieved	 6.926
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #77	 Recieved	 7.026
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #78	 Recieved	 7.113
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #79	 Recieved	 7.194
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #80	 Recieved	 7.328
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #81	 Recieved	 7.416
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #82	 Recieved	 7.509
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #83	 Recieved	 7.596
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #84	 Recieved	 7.696
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #85	 Recieved	 7.778
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #86	 Recieved	 7.903
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #87	 Recieved	 8.024
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #88	 Recieved	 8.118
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #89	 Recieved	 8.204
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #90	 Recieved	 8.298
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #91	 Recieved	 8.386
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #92	 Recieved	 8.479
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #93	 Recieved	 8.618
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #94	 Recieved	 8.699
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #95	 Recieved	 8.794
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #96	 Recieved	 8.899
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #97	 Recieved	 8.967
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #98	 Recieved	 9.062
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #99	 Recieved	 9.160
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #100	 Recieved	 9.301
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #101	 Recieved	 9.389
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #102	 Recieved	 9.476
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #103	 Recieved	 9.569
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #104	 Recieved	 9.664
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #105	 Recieved	 9.750
+[RESULT]	 PID: 19958	 cpu usage: 100.2%	 memory usage : 0.267%
+[SUCCESS]	 Matrix #106	 Recieved	 9.836
+[RESULT]	 PID: 19958	 cpu usage: 100.1%	 memory usage : 0.268%
+[SUCCESS]	 Matrix #107	 Recieved	 9.991
+[RESULT]	 PID: 19958	 cpu usage: 56.1%	 memory usage : 0.267%
+[FAIL]	 Matrix #108	 Not Recieved	 10.074
+[RESULT]	 PID: 19958	 cpu usage: 0.8%	 memory usage : 0.267%
+[FAIL]	 Matrix #109	 Not Recieved	 10.164
+[RESULT]	 PID: 19958	 cpu usage: 1.5%	 memory usage : 0.268%
+[FAIL]	 Matrix #110	 Not Recieved	 10.251
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.268%
+[FAIL]	 Matrix #111	 Not Recieved	 10.344
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.268%
+[FAIL]	 Matrix #112	 Not Recieved	 10.433
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.268%
+[FAIL]	 Matrix #113	 Not Recieved	 10.571
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #114	 Not Recieved	 10.664
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #115	 Not Recieved	 10.757
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.268%
+[FAIL]	 Matrix #116	 Not Recieved	 10.847
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.268%
+[FAIL]	 Matrix #117	 Not Recieved	 10.936
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.268%
+[FAIL]	 Matrix #118	 Not Recieved	 11.032
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.268%
+[FAIL]	 Matrix #119	 Not Recieved	 11.158
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.268%
+[FAIL]	 Matrix #120	 Not Recieved	 11.285
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #121	 Not Recieved	 11.382
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #122	 Not Recieved	 11.475
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #123	 Not Recieved	 11.567
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.268%
+[FAIL]	 Matrix #124	 Not Recieved	 11.672
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #125	 Not Recieved	 11.767
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.268%
+[FAIL]	 Matrix #126	 Not Recieved	 11.898
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.268%
+[FAIL]	 Matrix #127	 Not Recieved	 12.011
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #128	 Not Recieved	 12.110
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #129	 Not Recieved	 12.206
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #130	 Not Recieved	 12.304
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.268%
+[FAIL]	 Matrix #131	 Not Recieved	 12.397
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #132	 Not Recieved	 12.495
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.268%
+[FAIL]	 Matrix #133	 Not Recieved	 12.633
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.268%
+[FAIL]	 Matrix #134	 Not Recieved	 12.726
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.268%
+[FAIL]	 Matrix #135	 Not Recieved	 12.818
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #136	 Not Recieved	 12.912
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #137	 Not Recieved	 13.005
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #138	 Not Recieved	 13.097
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #139	 Not Recieved	 13.189
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.268%
+[FAIL]	 Matrix #140	 Not Recieved	 13.332
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.268%
+[FAIL]	 Matrix #141	 Not Recieved	 13.421
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.268%
+[FAIL]	 Matrix #142	 Not Recieved	 13.517
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #143	 Not Recieved	 13.610
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.268%
+[FAIL]	 Matrix #144	 Not Recieved	 13.704
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.268%
+[FAIL]	 Matrix #145	 Not Recieved	 13.803
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #146	 Not Recieved	 13.953
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #147	 Not Recieved	 14.049
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #148	 Not Recieved	 14.145
+[RESULT]	 PID: 19958	 cpu usage: 1.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #149	 Not Recieved	 14.247
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #150	 Not Recieved	 14.352
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #151	 Not Recieved	 14.454
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #152	 Not Recieved	 14.591
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #153	 Not Recieved	 14.699
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #154	 Not Recieved	 14.795
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #155	 Not Recieved	 14.889
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #156	 Not Recieved	 14.987
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #157	 Not Recieved	 15.078
+[RESULT]	 PID: 19958	 cpu usage: 1.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #158	 Not Recieved	 15.219
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #159	 Not Recieved	 15.319
+[RESULT]	 PID: 19958	 cpu usage: 2.5%	 memory usage : 0.269%
+[FAIL]	 Matrix #160	 Not Recieved	 15.413
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #161	 Not Recieved	 15.515
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #162	 Not Recieved	 15.626
+[RESULT]	 PID: 19958	 cpu usage: 2.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #163	 Not Recieved	 15.734
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #164	 Not Recieved	 15.869
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #165	 Not Recieved	 15.971
+[RESULT]	 PID: 19958	 cpu usage: 1.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #166	 Not Recieved	 16.070
+[RESULT]	 PID: 19958	 cpu usage: 0.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #167	 Not Recieved	 16.166
+[RESULT]	 PID: 19958	 cpu usage: 1.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #168	 Not Recieved	 16.263
+[RESULT]	 PID: 19958	 cpu usage: 1.5%	 memory usage : 0.269%
+[FAIL]	 Matrix #169	 Not Recieved	 16.355
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #170	 Not Recieved	 16.452
+[RESULT]	 PID: 19958	 cpu usage: 1.6%	 memory usage : 0.269%
+[FAIL]	 Matrix #171	 Not Recieved	 16.597
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #172	 Not Recieved	 16.691
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #173	 Not Recieved	 16.793
+[RESULT]	 PID: 19958	 cpu usage: 1.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #174	 Not Recieved	 16.887
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #175	 Not Recieved	 16.979
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #176	 Not Recieved	 17.080
+[RESULT]	 PID: 19958	 cpu usage: 1.6%	 memory usage : 0.269%
+[FAIL]	 Matrix #177	 Not Recieved	 17.205
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #178	 Not Recieved	 17.321
+[RESULT]	 PID: 19958	 cpu usage: 1.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #179	 Not Recieved	 17.427
+[RESULT]	 PID: 19958	 cpu usage: 1.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #180	 Not Recieved	 17.523
+[RESULT]	 PID: 19958	 cpu usage: 1.5%	 memory usage : 0.269%
+[FAIL]	 Matrix #181	 Not Recieved	 17.622
+[RESULT]	 PID: 19958	 cpu usage: 1.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #182	 Not Recieved	 17.717
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #183	 Not Recieved	 17.816
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #184	 Not Recieved	 17.972
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #185	 Not Recieved	 18.079
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #186	 Not Recieved	 18.170
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #187	 Not Recieved	 18.266
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #188	 Not Recieved	 18.359
+[RESULT]	 PID: 19958	 cpu usage: 1.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #189	 Not Recieved	 18.455
+[RESULT]	 PID: 19958	 cpu usage: 0.6%	 memory usage : 0.269%
+[FAIL]	 Matrix #190	 Not Recieved	 18.601
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #191	 Not Recieved	 18.701
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #192	 Not Recieved	 18.804
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #193	 Not Recieved	 18.900
+[RESULT]	 PID: 19958	 cpu usage: 0.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #194	 Not Recieved	 18.992
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #195	 Not Recieved	 19.089
+[RESULT]	 PID: 19958	 cpu usage: 0.6%	 memory usage : 0.269%
+[FAIL]	 Matrix #196	 Not Recieved	 19.225
+[RESULT]	 PID: 19958	 cpu usage: 0.6%	 memory usage : 0.269%
+[FAIL]	 Matrix #197	 Not Recieved	 19.333
+[RESULT]	 PID: 19958	 cpu usage: 0.6%	 memory usage : 0.269%
+[FAIL]	 Matrix #198	 Not Recieved	 19.425
+[RESULT]	 PID: 19958	 cpu usage: 0.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #199	 Not Recieved	 19.519
+[RESULT]	 PID: 19958	 cpu usage: 0.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #200	 Not Recieved	 19.611
+[RESULT]	 PID: 19958	 cpu usage: 0.6%	 memory usage : 0.269%
+[FAIL]	 Matrix #201	 Not Recieved	 19.705
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #202	 Not Recieved	 19.845
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #203	 Not Recieved	 19.947
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #204	 Not Recieved	 20.049
+[RESULT]	 PID: 19958	 cpu usage: 0.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #205	 Not Recieved	 20.142
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #206	 Not Recieved	 20.240
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #207	 Not Recieved	 20.337
+[RESULT]	 PID: 19958	 cpu usage: 0.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #208	 Not Recieved	 20.435
+[RESULT]	 PID: 19958	 cpu usage: 0.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #209	 Not Recieved	 20.588
+[RESULT]	 PID: 19958	 cpu usage: 0.6%	 memory usage : 0.269%
+[FAIL]	 Matrix #210	 Not Recieved	 20.686
+[RESULT]	 PID: 19958	 cpu usage: 0.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #211	 Not Recieved	 20.776
+[RESULT]	 PID: 19958	 cpu usage: 0.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #212	 Not Recieved	 20.875
+[RESULT]	 PID: 19958	 cpu usage: 0.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #213	 Not Recieved	 20.971
+[RESULT]	 PID: 19958	 cpu usage: 1.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #214	 Not Recieved	 21.064
+[RESULT]	 PID: 19958	 cpu usage: 1.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #215	 Not Recieved	 21.205
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #216	 Not Recieved	 21.304
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #217	 Not Recieved	 21.402
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #218	 Not Recieved	 21.493
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #219	 Not Recieved	 21.585
+[RESULT]	 PID: 19958	 cpu usage: 2.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #220	 Not Recieved	 21.677
+[RESULT]	 PID: 19958	 cpu usage: 2.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #221	 Not Recieved	 21.768
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #222	 Not Recieved	 21.908
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #223	 Not Recieved	 22.003
+[RESULT]	 PID: 19958	 cpu usage: 2.4%	 memory usage : 0.269%
+[FAIL]	 Matrix #224	 Not Recieved	 22.093
+[RESULT]	 PID: 19958	 cpu usage: 2.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #225	 Not Recieved	 22.186
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #226	 Not Recieved	 22.284
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #227	 Not Recieved	 22.368
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #228	 Not Recieved	 22.521
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #229	 Not Recieved	 22.613
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #230	 Not Recieved	 22.712
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #231	 Not Recieved	 22.816
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #232	 Not Recieved	 22.907
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #233	 Not Recieved	 23.010
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #234	 Not Recieved	 23.155
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #235	 Not Recieved	 23.255
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #236	 Not Recieved	 23.364
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #237	 Not Recieved	 23.456
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #238	 Not Recieved	 23.554
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #239	 Not Recieved	 23.663
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #240	 Not Recieved	 23.867
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #241	 Not Recieved	 23.979
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #242	 Not Recieved	 24.090
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #243	 Not Recieved	 24.195
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #244	 Not Recieved	 24.306
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #245	 Not Recieved	 24.434
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #246	 Not Recieved	 24.527
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #247	 Not Recieved	 24.722
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #248	 Not Recieved	 24.818
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #249	 Not Recieved	 24.918
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #250	 Not Recieved	 25.016
+[RESULT]	 PID: 19958	 cpu usage: 2.4%	 memory usage : 0.269%
+[FAIL]	 Matrix #251	 Not Recieved	 25.109
+[RESULT]	 PID: 19958	 cpu usage: 2.4%	 memory usage : 0.269%
+[FAIL]	 Matrix #252	 Not Recieved	 25.204
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #253	 Not Recieved	 25.354
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #254	 Not Recieved	 25.455
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #255	 Not Recieved	 25.549
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #256	 Not Recieved	 25.644
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #257	 Not Recieved	 25.743
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #258	 Not Recieved	 25.842
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #259	 Not Recieved	 25.975
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #260	 Not Recieved	 26.091
+[RESULT]	 PID: 19958	 cpu usage: 2.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #261	 Not Recieved	 26.189
+[RESULT]	 PID: 19958	 cpu usage: 2.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #262	 Not Recieved	 26.289
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #263	 Not Recieved	 26.385
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #264	 Not Recieved	 26.488
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #265	 Not Recieved	 26.577
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #266	 Not Recieved	 26.717
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #267	 Not Recieved	 26.838
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #268	 Not Recieved	 26.939
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #269	 Not Recieved	 27.034
+[RESULT]	 PID: 19958	 cpu usage: 2.4%	 memory usage : 0.269%
+[FAIL]	 Matrix #270	 Not Recieved	 27.128
+[RESULT]	 PID: 19958	 cpu usage: 2.3%	 memory usage : 0.269%
+[FAIL]	 Matrix #271	 Not Recieved	 27.226
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #272	 Not Recieved	 27.330
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #273	 Not Recieved	 27.472
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #274	 Not Recieved	 27.571
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #275	 Not Recieved	 27.667
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #276	 Not Recieved	 27.763
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #277	 Not Recieved	 27.859
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #278	 Not Recieved	 27.953
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #279	 Not Recieved	 28.084
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #280	 Not Recieved	 28.197
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #281	 Not Recieved	 28.299
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #282	 Not Recieved	 28.395
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #283	 Not Recieved	 28.494
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #284	 Not Recieved	 28.590
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #285	 Not Recieved	 28.687
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #286	 Not Recieved	 28.839
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #287	 Not Recieved	 28.934
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #288	 Not Recieved	 29.034
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #289	 Not Recieved	 29.134
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.269%
+[FAIL]	 Matrix #290	 Not Recieved	 29.230
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #291	 Not Recieved	 29.327
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #292	 Not Recieved	 29.494
+[RESULT]	 PID: 19958	 cpu usage: 2.2%	 memory usage : 0.269%
+[FAIL]	 Matrix #293	 Not Recieved	 29.576
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #294	 Not Recieved	 29.675
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #295	 Not Recieved	 29.767
+[RESULT]	 PID: 19958	 cpu usage: 1.8%	 memory usage : 0.269%
+[FAIL]	 Matrix #296	 Not Recieved	 29.886
+[RESULT]	 PID: 19958	 cpu usage: 1.9%	 memory usage : 0.269%
+[FAIL]	 Matrix #297	 Not Recieved	 29.982
+[RESULT]	 PID: 19958	 cpu usage: 2.0%	 memory usage : 0.269%
+[FAIL]	 Matrix #298	 Not Recieved	 30.079
+[RESULT]	 PID: 19958	 cpu usage: 1.7%	 memory usage : 0.269%
+[FAIL]	 Matrix #299	 Not Recieved	 30.228
+[RESULT]	 PID: 19958	 cpu usage: 2.1%	 memory usage : 0.270%
+[FAIL]	 Matrix #300	 Not Recieved	 30.333
+[RESULT]	 Total Time: 30.334s	 Latency: 20.334s	 Reception Rate: 35.67%(107/300)
