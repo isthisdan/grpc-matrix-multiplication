@@ -1,0 +1,1201 @@
+[RESULT]	 PID: 6800	 cpu usage: 0.0%	 memory usage : 0.181%
+[SUCCESS]	 Matrix #1	 Calculated	 0.018
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.181%
+[SUCCESS]	 Matrix #2	 Calculated	 0.035
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.181%
+[SUCCESS]	 Matrix #3	 Calculated	 0.053
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.182%
+[SUCCESS]	 Matrix #4	 Calculated	 0.070
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.182%
+[SUCCESS]	 Matrix #5	 Calculated	 0.090
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.182%
+[SUCCESS]	 Matrix #6	 Calculated	 0.110
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.183%
+[SUCCESS]	 Matrix #7	 Calculated	 0.132
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.183%
+[SUCCESS]	 Matrix #8	 Calculated	 0.150
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.183%
+[SUCCESS]	 Matrix #9	 Calculated	 0.169
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.185%
+[SUCCESS]	 Matrix #10	 Calculated	 0.188
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.185%
+[SUCCESS]	 Matrix #11	 Calculated	 0.206
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.185%
+[SUCCESS]	 Matrix #12	 Calculated	 0.229
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #13	 Calculated	 0.248
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #14	 Calculated	 0.267
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #15	 Calculated	 0.286
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #16	 Calculated	 0.305
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #17	 Calculated	 0.325
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #18	 Calculated	 0.347
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #19	 Calculated	 0.368
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #20	 Calculated	 0.389
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #21	 Calculated	 0.409
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #22	 Calculated	 0.427
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #23	 Calculated	 0.446
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #24	 Calculated	 0.464
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #25	 Calculated	 0.485
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #26	 Calculated	 0.507
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #27	 Calculated	 0.526
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #28	 Calculated	 0.545
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #29	 Calculated	 0.565
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #30	 Calculated	 0.585
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #31	 Calculated	 0.604
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #32	 Calculated	 0.621
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #33	 Calculated	 0.640
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #34	 Calculated	 0.660
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #35	 Calculated	 0.679
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #36	 Calculated	 0.700
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #37	 Calculated	 0.722
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #38	 Calculated	 0.742
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #39	 Calculated	 0.762
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #40	 Calculated	 0.782
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #41	 Calculated	 0.803
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #42	 Calculated	 0.820
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #43	 Calculated	 0.849
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #44	 Calculated	 0.867
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #45	 Calculated	 0.889
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #46	 Calculated	 0.909
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #47	 Calculated	 0.928
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #48	 Calculated	 0.949
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #49	 Calculated	 0.971
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #50	 Calculated	 0.992
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #51	 Calculated	 1.011
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #52	 Calculated	 1.030
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #53	 Calculated	 1.048
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #54	 Calculated	 1.066
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #55	 Calculated	 1.087
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #56	 Calculated	 1.107
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #57	 Calculated	 1.124
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #58	 Calculated	 1.143
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #59	 Calculated	 1.163
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #60	 Calculated	 1.182
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #61	 Calculated	 1.202
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #62	 Calculated	 1.224
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #63	 Calculated	 1.244
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #64	 Calculated	 1.264
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #65	 Calculated	 1.283
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #66	 Calculated	 1.305
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #67	 Calculated	 1.325
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #68	 Calculated	 1.347
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #69	 Calculated	 1.366
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #70	 Calculated	 1.384
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #71	 Calculated	 1.404
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #72	 Calculated	 1.423
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #73	 Calculated	 1.445
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #74	 Calculated	 1.465
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #75	 Calculated	 1.485
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #76	 Calculated	 1.502
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #77	 Calculated	 1.520
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #78	 Calculated	 1.539
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #79	 Calculated	 1.559
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #80	 Calculated	 1.578
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #81	 Calculated	 1.599
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #82	 Calculated	 1.620
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #83	 Calculated	 1.643
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #84	 Calculated	 1.663
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #85	 Calculated	 1.683
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #86	 Calculated	 1.705
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #87	 Calculated	 1.726
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #88	 Calculated	 1.744
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #89	 Calculated	 1.764
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #90	 Calculated	 1.784
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #91	 Calculated	 1.805
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #92	 Calculated	 1.823
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.186%
+[SUCCESS]	 Matrix #93	 Calculated	 1.843
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #94	 Calculated	 1.861
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #95	 Calculated	 1.880
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #96	 Calculated	 1.898
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #97	 Calculated	 1.919
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #98	 Calculated	 1.938
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #99	 Calculated	 1.957
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #100	 Calculated	 1.977
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #101	 Calculated	 1.996
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #102	 Calculated	 2.016
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #103	 Calculated	 2.036
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #104	 Calculated	 2.055
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #105	 Calculated	 2.075
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #106	 Calculated	 2.095
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #107	 Calculated	 2.115
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #108	 Calculated	 2.136
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #109	 Calculated	 2.153
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #110	 Calculated	 2.172
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #111	 Calculated	 2.192
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #112	 Calculated	 2.212
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #113	 Calculated	 2.230
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #114	 Calculated	 2.249
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #115	 Calculated	 2.270
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #116	 Calculated	 2.289
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #117	 Calculated	 2.308
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #118	 Calculated	 2.327
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #119	 Calculated	 2.344
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #120	 Calculated	 2.363
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #121	 Calculated	 2.381
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #122	 Calculated	 2.407
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #123	 Calculated	 2.427
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #124	 Calculated	 2.448
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #125	 Calculated	 2.468
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #126	 Calculated	 2.487
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #127	 Calculated	 2.508
+[RESULT]	 PID: 6800	 cpu usage: 0.0%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #128	 Calculated	 2.526
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #129	 Calculated	 2.546
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #130	 Calculated	 2.565
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #131	 Calculated	 2.582
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #132	 Calculated	 2.601
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #133	 Calculated	 2.620
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #134	 Calculated	 2.639
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #135	 Calculated	 2.659
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #136	 Calculated	 2.680
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #137	 Calculated	 2.698
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #138	 Calculated	 2.719
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #139	 Calculated	 2.737
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #140	 Calculated	 2.758
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #141	 Calculated	 2.777
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #142	 Calculated	 2.795
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #143	 Calculated	 2.814
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #144	 Calculated	 2.836
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #145	 Calculated	 2.856
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #146	 Calculated	 2.877
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #147	 Calculated	 2.898
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #148	 Calculated	 2.921
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #149	 Calculated	 2.942
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #150	 Calculated	 2.960
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #151	 Calculated	 2.980
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #152	 Calculated	 3.000
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #153	 Calculated	 3.020
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #154	 Calculated	 3.040
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #155	 Calculated	 3.060
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #156	 Calculated	 3.080
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #157	 Calculated	 3.100
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #158	 Calculated	 3.120
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #159	 Calculated	 3.141
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #160	 Calculated	 3.162
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #161	 Calculated	 3.181
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #162	 Calculated	 3.201
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #163	 Calculated	 3.222
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #164	 Calculated	 3.240
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #165	 Calculated	 3.258
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #166	 Calculated	 3.279
+[RESULT]	 PID: 6800	 cpu usage: 195.3%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #167	 Calculated	 3.298
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #168	 Calculated	 3.319
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #169	 Calculated	 3.338
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #170	 Calculated	 3.356
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #171	 Calculated	 3.377
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #172	 Calculated	 3.398
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #173	 Calculated	 3.416
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #174	 Calculated	 3.435
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #175	 Calculated	 3.455
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #176	 Calculated	 3.475
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #177	 Calculated	 3.496
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #178	 Calculated	 3.514
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #179	 Calculated	 3.536
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #180	 Calculated	 3.555
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #181	 Calculated	 3.574
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #182	 Calculated	 3.592
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #183	 Calculated	 3.613
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #184	 Calculated	 3.632
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #185	 Calculated	 3.651
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #186	 Calculated	 3.672
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #187	 Calculated	 3.692
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #188	 Calculated	 3.712
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #189	 Calculated	 3.730
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #190	 Calculated	 3.748
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #191	 Calculated	 3.769
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #192	 Calculated	 3.790
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #193	 Calculated	 3.811
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #194	 Calculated	 3.830
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #195	 Calculated	 3.853
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #196	 Calculated	 3.872
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #197	 Calculated	 3.890
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #198	 Calculated	 3.911
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #199	 Calculated	 3.929
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #200	 Calculated	 3.950
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #201	 Calculated	 3.968
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #202	 Calculated	 3.988
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #203	 Calculated	 4.007
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.187%
+[SUCCESS]	 Matrix #204	 Calculated	 4.028
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #205	 Calculated	 4.047
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #206	 Calculated	 4.065
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #207	 Calculated	 4.084
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #208	 Calculated	 4.103
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #209	 Calculated	 4.122
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #210	 Calculated	 4.145
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #211	 Calculated	 4.163
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #212	 Calculated	 4.181
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #213	 Calculated	 4.203
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #214	 Calculated	 4.222
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #215	 Calculated	 4.243
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #216	 Calculated	 4.261
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #217	 Calculated	 4.281
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #218	 Calculated	 4.298
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #219	 Calculated	 4.319
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #220	 Calculated	 4.337
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #221	 Calculated	 4.357
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #222	 Calculated	 4.377
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #223	 Calculated	 4.395
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #224	 Calculated	 4.413
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #225	 Calculated	 4.430
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #226	 Calculated	 4.447
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #227	 Calculated	 4.467
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #228	 Calculated	 4.488
+[RESULT]	 PID: 6800	 cpu usage: 195.3%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #229	 Calculated	 4.507
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #230	 Calculated	 4.525
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #231	 Calculated	 4.545
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #232	 Calculated	 4.564
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #233	 Calculated	 4.583
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #234	 Calculated	 4.603
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #235	 Calculated	 4.624
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #236	 Calculated	 4.641
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #237	 Calculated	 4.662
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #238	 Calculated	 4.684
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #239	 Calculated	 4.703
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #240	 Calculated	 4.721
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #241	 Calculated	 4.742
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #242	 Calculated	 4.761
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #243	 Calculated	 4.780
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #244	 Calculated	 4.798
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #245	 Calculated	 4.818
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #246	 Calculated	 4.838
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #247	 Calculated	 4.858
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #248	 Calculated	 4.877
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #249	 Calculated	 4.897
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #250	 Calculated	 4.917
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #251	 Calculated	 4.937
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #252	 Calculated	 4.956
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #253	 Calculated	 4.976
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #254	 Calculated	 4.996
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #255	 Calculated	 5.018
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #256	 Calculated	 5.036
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #257	 Calculated	 5.056
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #258	 Calculated	 5.078
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #259	 Calculated	 5.097
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #260	 Calculated	 5.120
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #261	 Calculated	 5.138
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #262	 Calculated	 5.155
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #263	 Calculated	 5.174
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #264	 Calculated	 5.194
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #265	 Calculated	 5.212
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #266	 Calculated	 5.231
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #267	 Calculated	 5.251
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #268	 Calculated	 5.269
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #269	 Calculated	 5.286
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #270	 Calculated	 5.304
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #271	 Calculated	 5.323
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #272	 Calculated	 5.343
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #273	 Calculated	 5.361
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #274	 Calculated	 5.380
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #275	 Calculated	 5.400
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #276	 Calculated	 5.418
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #277	 Calculated	 5.439
+[RESULT]	 PID: 6800	 cpu usage: 293.0%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #278	 Calculated	 5.460
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #279	 Calculated	 5.479
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #280	 Calculated	 5.499
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #281	 Calculated	 5.520
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #282	 Calculated	 5.543
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #283	 Calculated	 5.561
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #284	 Calculated	 5.579
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #285	 Calculated	 5.599
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #286	 Calculated	 5.619
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #287	 Calculated	 5.638
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #288	 Calculated	 5.655
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #289	 Calculated	 5.672
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #290	 Calculated	 5.691
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #291	 Calculated	 5.710
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #292	 Calculated	 5.728
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #293	 Calculated	 5.745
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #294	 Calculated	 5.764
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #295	 Calculated	 5.784
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #296	 Calculated	 5.803
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #297	 Calculated	 5.822
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #298	 Calculated	 5.842
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #299	 Calculated	 5.862
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #300	 Calculated	 5.882
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #301	 Calculated	 5.902
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #302	 Calculated	 5.921
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #303	 Calculated	 5.940
+[RESULT]	 PID: 6800	 cpu usage: 48.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #304	 Calculated	 5.964
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #305	 Calculated	 5.983
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #306	 Calculated	 6.003
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #307	 Calculated	 6.022
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #308	 Calculated	 6.041
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #309	 Calculated	 6.059
+[RESULT]	 PID: 6800	 cpu usage: 195.3%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #310	 Calculated	 6.080
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #311	 Calculated	 6.099
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #312	 Calculated	 6.120
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #313	 Calculated	 6.141
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #314	 Calculated	 6.162
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #315	 Calculated	 6.182
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #316	 Calculated	 6.202
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #317	 Calculated	 6.221
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #318	 Calculated	 6.240
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #319	 Calculated	 6.262
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #320	 Calculated	 6.281
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #321	 Calculated	 6.301
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #322	 Calculated	 6.320
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #323	 Calculated	 6.339
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #324	 Calculated	 6.360
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #325	 Calculated	 6.379
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #326	 Calculated	 6.400
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #327	 Calculated	 6.417
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #328	 Calculated	 6.436
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #329	 Calculated	 6.460
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #330	 Calculated	 6.480
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #331	 Calculated	 6.497
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #332	 Calculated	 6.515
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #333	 Calculated	 6.535
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #334	 Calculated	 6.555
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #335	 Calculated	 6.574
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #336	 Calculated	 6.595
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #337	 Calculated	 6.613
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #338	 Calculated	 6.634
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #339	 Calculated	 6.656
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #340	 Calculated	 6.677
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #341	 Calculated	 6.697
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #342	 Calculated	 6.719
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #343	 Calculated	 6.739
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #344	 Calculated	 6.760
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #345	 Calculated	 6.780
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #346	 Calculated	 6.801
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #347	 Calculated	 6.819
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #348	 Calculated	 6.841
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #349	 Calculated	 6.860
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #350	 Calculated	 6.881
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #351	 Calculated	 6.900
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #352	 Calculated	 6.920
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #353	 Calculated	 6.939
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #354	 Calculated	 6.958
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #355	 Calculated	 6.979
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #356	 Calculated	 6.998
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #357	 Calculated	 7.015
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #358	 Calculated	 7.036
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #359	 Calculated	 7.056
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #360	 Calculated	 7.075
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #361	 Calculated	 7.095
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #362	 Calculated	 7.113
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #363	 Calculated	 7.133
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #364	 Calculated	 7.151
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #365	 Calculated	 7.171
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #366	 Calculated	 7.189
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #367	 Calculated	 7.214
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #368	 Calculated	 7.234
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #369	 Calculated	 7.254
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #370	 Calculated	 7.274
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #371	 Calculated	 7.294
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #372	 Calculated	 7.314
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #373	 Calculated	 7.336
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #374	 Calculated	 7.359
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #375	 Calculated	 7.380
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #376	 Calculated	 7.400
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #377	 Calculated	 7.420
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #378	 Calculated	 7.438
+[RESULT]	 PID: 6800	 cpu usage: 24.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #379	 Calculated	 7.491
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #380	 Calculated	 7.514
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #381	 Calculated	 7.534
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #382	 Calculated	 7.556
+[RESULT]	 PID: 6800	 cpu usage: 0.0%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #383	 Calculated	 7.576
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #384	 Calculated	 7.604
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #385	 Calculated	 7.625
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #386	 Calculated	 7.651
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #387	 Calculated	 7.676
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #388	 Calculated	 7.698
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #389	 Calculated	 7.720
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #390	 Calculated	 7.739
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #391	 Calculated	 7.760
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #392	 Calculated	 7.782
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #393	 Calculated	 7.802
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #394	 Calculated	 7.822
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #395	 Calculated	 7.844
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #396	 Calculated	 7.865
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #397	 Calculated	 7.885
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #398	 Calculated	 7.905
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #399	 Calculated	 7.927
+[RESULT]	 PID: 6800	 cpu usage: 0.0%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #400	 Calculated	 7.949
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #401	 Calculated	 7.968
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #402	 Calculated	 7.988
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #403	 Calculated	 8.007
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #404	 Calculated	 8.031
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #405	 Calculated	 8.050
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #406	 Calculated	 8.071
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #407	 Calculated	 8.093
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #408	 Calculated	 8.113
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #409	 Calculated	 8.133
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #410	 Calculated	 8.152
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #411	 Calculated	 8.172
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #412	 Calculated	 8.195
+[RESULT]	 PID: 6800	 cpu usage: 0.0%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #413	 Calculated	 8.215
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #414	 Calculated	 8.235
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #415	 Calculated	 8.256
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #416	 Calculated	 8.273
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #417	 Calculated	 8.293
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #418	 Calculated	 8.314
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #419	 Calculated	 8.335
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #420	 Calculated	 8.357
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #421	 Calculated	 8.376
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #422	 Calculated	 8.397
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #423	 Calculated	 8.416
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #424	 Calculated	 8.440
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #425	 Calculated	 8.460
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #426	 Calculated	 8.482
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #427	 Calculated	 8.502
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #428	 Calculated	 8.519
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #429	 Calculated	 8.539
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #430	 Calculated	 8.560
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #431	 Calculated	 8.579
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #432	 Calculated	 8.598
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #433	 Calculated	 8.617
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #434	 Calculated	 8.637
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #435	 Calculated	 8.654
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #436	 Calculated	 8.676
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #437	 Calculated	 8.692
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #438	 Calculated	 8.715
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #439	 Calculated	 8.735
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #440	 Calculated	 8.756
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #441	 Calculated	 8.778
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #442	 Calculated	 8.797
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #443	 Calculated	 8.816
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #444	 Calculated	 8.835
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #445	 Calculated	 8.856
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #446	 Calculated	 8.876
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #447	 Calculated	 8.898
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #448	 Calculated	 8.919
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #449	 Calculated	 8.940
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #450	 Calculated	 8.959
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #451	 Calculated	 8.976
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #452	 Calculated	 8.996
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #453	 Calculated	 9.015
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #454	 Calculated	 9.035
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #455	 Calculated	 9.056
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #456	 Calculated	 9.074
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #457	 Calculated	 9.093
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #458	 Calculated	 9.111
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #459	 Calculated	 9.131
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #460	 Calculated	 9.152
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #461	 Calculated	 9.172
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #462	 Calculated	 9.192
+[RESULT]	 PID: 6800	 cpu usage: 48.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #463	 Calculated	 9.210
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #464	 Calculated	 9.229
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #465	 Calculated	 9.250
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #466	 Calculated	 9.270
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #467	 Calculated	 9.288
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.190%
+[SUCCESS]	 Matrix #468	 Calculated	 9.307
+[RESULT]	 PID: 6800	 cpu usage: 0.0%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #469	 Calculated	 9.344
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #470	 Calculated	 9.365
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #471	 Calculated	 9.384
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #472	 Calculated	 9.406
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #473	 Calculated	 9.424
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #474	 Calculated	 9.444
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #475	 Calculated	 9.464
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #476	 Calculated	 9.482
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #477	 Calculated	 9.502
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #478	 Calculated	 9.522
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #479	 Calculated	 9.540
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #480	 Calculated	 9.561
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #481	 Calculated	 9.581
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #482	 Calculated	 9.600
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #483	 Calculated	 9.621
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #484	 Calculated	 9.639
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #485	 Calculated	 9.659
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #486	 Calculated	 9.678
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #487	 Calculated	 9.699
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #488	 Calculated	 9.716
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #489	 Calculated	 9.734
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #490	 Calculated	 9.753
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #491	 Calculated	 9.772
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #492	 Calculated	 9.792
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #493	 Calculated	 9.810
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #494	 Calculated	 9.829
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #495	 Calculated	 9.849
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #496	 Calculated	 9.868
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #497	 Calculated	 9.888
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #498	 Calculated	 9.907
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #499	 Calculated	 9.930
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #500	 Calculated	 9.950
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #501	 Calculated	 9.970
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #502	 Calculated	 9.990
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #503	 Calculated	 10.010
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #504	 Calculated	 10.029
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #505	 Calculated	 10.048
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #506	 Calculated	 10.068
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #507	 Calculated	 10.087
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #508	 Calculated	 10.107
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #509	 Calculated	 10.128
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #510	 Calculated	 10.148
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #511	 Calculated	 10.166
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #512	 Calculated	 10.184
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #513	 Calculated	 10.201
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #514	 Calculated	 10.221
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #515	 Calculated	 10.242
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #516	 Calculated	 10.262
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #517	 Calculated	 10.279
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #518	 Calculated	 10.299
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #519	 Calculated	 10.320
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #520	 Calculated	 10.337
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #521	 Calculated	 10.357
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #522	 Calculated	 10.374
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #523	 Calculated	 10.393
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #524	 Calculated	 10.415
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #525	 Calculated	 10.435
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #526	 Calculated	 10.454
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #527	 Calculated	 10.472
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #528	 Calculated	 10.492
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #529	 Calculated	 10.512
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #530	 Calculated	 10.532
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #531	 Calculated	 10.551
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #532	 Calculated	 10.570
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #533	 Calculated	 10.588
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #534	 Calculated	 10.607
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #535	 Calculated	 10.627
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #536	 Calculated	 10.645
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #537	 Calculated	 10.665
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #538	 Calculated	 10.685
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #539	 Calculated	 10.703
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #540	 Calculated	 10.722
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #541	 Calculated	 10.742
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #542	 Calculated	 10.762
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #543	 Calculated	 10.781
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #544	 Calculated	 10.802
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #545	 Calculated	 10.822
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #546	 Calculated	 10.842
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #547	 Calculated	 10.861
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #548	 Calculated	 10.882
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #549	 Calculated	 10.899
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #550	 Calculated	 10.918
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #551	 Calculated	 10.937
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #552	 Calculated	 10.955
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #553	 Calculated	 10.975
+[RESULT]	 PID: 6800	 cpu usage: 195.3%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #554	 Calculated	 10.997
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #555	 Calculated	 11.017
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #556	 Calculated	 11.037
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #557	 Calculated	 11.056
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #558	 Calculated	 11.077
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #559	 Calculated	 11.096
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #560	 Calculated	 11.114
+[RESULT]	 PID: 6800	 cpu usage: 151.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #561	 Calculated	 11.135
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #562	 Calculated	 11.156
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #563	 Calculated	 11.177
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #564	 Calculated	 11.197
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #565	 Calculated	 11.215
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #566	 Calculated	 11.235
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #567	 Calculated	 11.253
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #568	 Calculated	 11.275
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #569	 Calculated	 11.294
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #570	 Calculated	 11.314
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #571	 Calculated	 11.333
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #572	 Calculated	 11.352
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #573	 Calculated	 11.372
+[RESULT]	 PID: 6800	 cpu usage: 208.3%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #574	 Calculated	 11.392
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #575	 Calculated	 11.412
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #576	 Calculated	 11.433
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #577	 Calculated	 11.453
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #578	 Calculated	 11.473
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #579	 Calculated	 11.491
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #580	 Calculated	 11.514
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #581	 Calculated	 11.534
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #582	 Calculated	 11.553
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #583	 Calculated	 11.572
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #584	 Calculated	 11.591
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #585	 Calculated	 11.609
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #586	 Calculated	 11.630
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #587	 Calculated	 11.650
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #588	 Calculated	 11.671
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #589	 Calculated	 11.690
+[RESULT]	 PID: 6800	 cpu usage: 146.5%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #590	 Calculated	 11.710
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #591	 Calculated	 11.728
+[RESULT]	 PID: 6800	 cpu usage: 195.3%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #592	 Calculated	 11.753
+[RESULT]	 PID: 6800	 cpu usage: 100.8%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #593	 Calculated	 11.773
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #594	 Calculated	 11.790
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #595	 Calculated	 11.811
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #596	 Calculated	 11.829
+[RESULT]	 PID: 6800	 cpu usage: 50.4%	 memory usage : 0.189%
+[SUCCESS]	 Matrix #597	 Calculated	 11.850
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #598	 Calculated	 11.873
+[RESULT]	 PID: 6800	 cpu usage: 104.2%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #599	 Calculated	 11.892
+[RESULT]	 PID: 6800	 cpu usage: 97.7%	 memory usage : 0.188%
+[SUCCESS]	 Matrix #600	 Calculated	 11.913
+[RESULT]	 Total Time: 11.913s	 Latency: 1.913s	 Reception Rate: 83.67%(502/600)
