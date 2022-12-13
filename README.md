@@ -93,7 +93,7 @@ See the <a href="https://github.com/isthisdan/grpc-matrix-multiplication/tree/ma
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Conclusion
-In **[Figure3]** **[Figure4]** **[Figure5]** , turquoise line is the result using grpc and gray line is the result not using grpc. According to the result, it is validated that the average matrix operation speed still could be faster using gRPC. Processing data should be done one remote PC when the amount of data is big. gRPC is a really good option for network connection between the local PC and remote PC.
+In **[Figure3]** **[Figure4]** **[Figure5]** , turquoise line is the result using grpc and gray line is the result not using grpc. According to the result, it is validated that the average matrix operation speed still could be faster using gRPC. Processing data should be done on remote PC when the amount of data is big. gRPC is a really good option for network connection between the local PC and remote PC.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
