@@ -88,7 +88,7 @@ Server : Macbook M1 Pro(2020)
 ![60fps](./static/mm-60fps.png)
 <h5 align='center'>[Figure5] 60FPS Matrix Multiplication Result</h5>
 
-### See the <a href="https://github.com/isthisdan/grpc-matrix-multiplication/tree/main/result"> Execution log</a> for more information.
+See the <a href="https://github.com/isthisdan/grpc-matrix-multiplication/tree/main/result"> Execution log</a> for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
