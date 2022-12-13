@@ -78,18 +78,16 @@ class Logging:
     def client_result(self, total_time, latency, success, total):
         reception_rate = (success / total) * 100
         print(
-            f"[RESULT]\t Total Time: {total_time:.3f}s\t Latency: {latency:.3f}s\t Reception Rate: {reception_rate:.2f}%({success}/{total})"
+            f"[RESULT]\t Total Time: {total_time:.3f}s\t Latency: {latency:.3f}s\t  \
+                         Reception Rate: {reception_rate:.2f}%({success}/{total})"
         )
 
 
 class ClientDimensionC:
-    # DIMENSION =< 511(Approximately 4MB)
-    # DIMENSION = 511 (1m 3s)
     DIMENSIONS = [10, 100, 200, 300, 400, 500]
 
 
 class ClientFpsC:
-    # DIMENSION < 40
     DIMENSION = 30
     MAX_TIME = 10
     FPS = 24

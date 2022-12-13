@@ -3,7 +3,8 @@ from datetime import datetime as dt
 from concurrent import futures
 
 import grpc
-import file_pb2, file_pb2_grpc
+import file_pb2
+import file_pb2_grpc
 
 from lib import Resource
 from lib import Logging
@@ -40,7 +41,6 @@ class ProcessingServer(file_pb2_grpc.ProcessingServerServicer):
             for thread_num in range(0, request.dimension):
                 print(f"[END THREADING]\t{dt.now()}")
                 self.result[thread_num].join()
-
             yield file_pb2.Response(
                 dimension=mm.dimension,
                 matrix_r=matrix_converter_bytes(mm.matrix_r),
@@ -49,9 +49,7 @@ class ProcessingServer(file_pb2_grpc.ProcessingServerServicer):
 
 def serve():
     server = grpc.server(futures.ThreadPoolExecutor(max_workers=10))
-    file_pb2_grpc.add_ProcessingServerServicer_to_server(
-        ProcessingServer(), server
-    )
+    file_pb2_grpc.add_ProcessingServerServicer_to_server(ProcessingServer(), server)
     try:
         print("Start Server. Listening on port 50052")
         server.add_insecure_port("[::]:50052")

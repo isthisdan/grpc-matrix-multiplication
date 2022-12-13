@@ -1,16 +1,17 @@
 import time
 from datetime import datetime as dt
 
+import numpy as np
+
 import grpc
-import file_pb2, file_pb2_grpc
+import file_pb2
+import file_pb2_grpc
 
 from lib import Resource
 from lib import Logging
 from lib import MatrixGenerator
-from lib import matrix_converter_bytes, matrix_converter_str
+from lib import matrix_converter_bytes
 from lib import ClientFpsC, ClientDimensionC
-
-import numpy as np
 
 
 class ProcessingClient:
@@ -49,7 +50,7 @@ class ProcessingClient:
             message="Start Response",
             time=dt.now().strftime("%Y-%m-%d %H:%M:%S"),
         )
-        for r in responses:
+        for _ in responses:
             self.res.get_usage()
             self.res.show_usage()
             self.counter += 1
@@ -93,7 +94,7 @@ class ProcessingClient:
             message="Start Response",
             time=dt.now().strftime("%Y-%m-%d %H:%M:%S"),
         )
-        for r in responses:
+        for _ in responses:
             self.res.get_usage()
             self.res.show_usage()
             self.counter += 1
@@ -114,8 +115,7 @@ class ProcessingClient:
                 )
         self.log.client_result(
             total_time=(dt.now() - self.start).total_seconds(),
-            latency=(dt.now() - self.start).total_seconds()
-            - ClientFpsC.MAX_TIME,
+            latency=(dt.now() - self.start).total_seconds() - ClientFpsC.MAX_TIME,
             success=self.success,
             total=(ClientFpsC.FPS * ClientFpsC.MAX_TIME),
         )
